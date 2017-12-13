@@ -1,0 +1,5 @@
+@charset "gb2312";
+/* CSS Document */
+h2{ font-size:18px; font-family:"¿¬Ìו";}
+p{font:12px "Times New Roman", Times "ËÎÌו"; line-height:20px;}
+p span{font-weight:bold; color:#F00;}
